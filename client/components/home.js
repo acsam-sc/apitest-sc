@@ -15,7 +15,7 @@ const Dashboard = () => {
 const DashboardMain = () => {
   return (
     <div>
-      <div id="title">Dashboard</div>
+      <div id="title">Main</div>
       <Link to="/dashboard/profile/15ef5221-bff1-11e9-954d-2f6ce28e9166">Go To Profile</Link>
       <Link to="/dashboard">Go To Root</Link>
     </div>
