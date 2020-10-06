@@ -1,4 +1,5 @@
-# SkillCrucial React Redux boilerplate
+# App for testing API (SkillCrucial Course)
+# Skillcrucial React-Redux Boilerplate
 
 ## Quick start
 
