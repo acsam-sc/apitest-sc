@@ -3,9 +3,11 @@
 
 ## Quick start
 
+To run this project please use Node.js v.12.22.12
+
 1. Clone this repo using:
   ```shell
-  $ git clone git@github.com:ovasylenko/skillcrucial-react-redux-boilerplate.git
+  $ git clone git@github.com:acsam-sc/apitest-sc.git
   ```
 
 2. To install dependencies and clean the git repo run:
